@@ -1,7 +1,4 @@
 theme: jekyll-theme-modernist
-site:
-    title: Amsitlab
-    description: Simple github page.
-    github:
-        project_tagline: Amsitlab
-        repository_name: Amsitlab
+title: Amsitlab
+description: Simple github page.
+show_downloads: true
