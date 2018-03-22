@@ -4,3 +4,4 @@ site:
     description: Simple github page.
     github:
         project_tagline: Amsitlab
+        repository_name: Amsitlab
