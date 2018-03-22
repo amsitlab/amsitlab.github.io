@@ -2,4 +2,5 @@ theme: jekyll-theme-modernist
 site:
     title: Amsitlab
     description: Simple github page.
-
+    github:
+        project_tagline: Amsitlab
