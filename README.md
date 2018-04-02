@@ -1,2 +1,13 @@
-# amsitlab.github.io
-amsitlab.github.io
+---
+layout: default
+---
+
+
+
+###### [](termux-package-list)Termux Package List
+
+| Name                                          | Description                        |
+|:----------------------------------------------|:-----------------------------------|
+| [dxalt](https://github.com/amsitlab/dxalt)    | Alternative "dx" program for termux|
+| [sms](https://github.com/amsitlab/sms)        | Send text message from cli (ID).   |
+| [debpack](https://github.com/amsitlab/debpack)| Debian packaging for termux.       |
