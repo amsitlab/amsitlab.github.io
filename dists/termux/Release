@@ -1,0 +1,9 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: Unofficiall termux repository
+Suite: termux
+Date: Mon, 14 May 2018 18:59:19 +0000
+SHA256:
+ 6b260484f12bf2cd22b8da2a757196415307b97b5b0af8963dcca142f429ce29 368 amsitlab/binary-all/Packages
+ f63c98643077ff6dbb62483791001dfff75466757f1b83a2281b0a483ca11fa6 352 amsitlab/binary-all/Packages.xz

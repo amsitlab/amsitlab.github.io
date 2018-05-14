@@ -1,0 +1,10 @@
+Package: commandex
+Architecture: all
+Maintainer: Amsit
+Description: Dex commandline creator
+Version: 1.0
+Depends: bash (>= 4.4.19), dx (>= 27.0.3), ecj (>= 4.6.2-3), tmux (>= 2.7), sed (>= 4.5), coreutils (>= 8.29) 
+Filename: dists/termux/amsitlab/binary-all/commandex_1.0_all.deb
+Size: 152848
+SHA256: 707d3ad1c3ea1e25dc6d45691c52ae934c9060fe6c286523b01b48c27835fffc
+
