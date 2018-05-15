@@ -77,8 +77,8 @@ help(){
 ## enabling repository
 enable(){
 
-#apt update
-#apt upgrade -y
+apt update
+apt upgrade -y
 
 
 apt install gnupg wget
@@ -98,7 +98,7 @@ if [ -z "$ARCHITECTURE" ]; then
 	echo "Unknown architecture"
 	echo "Note:"
 	echo "	Architecture will be set as \"aarch64\""
-	echo "	If this wrong, Please set file"
+	echo "	If this wrong, Please edit file"
 	echo "	${SOURCES_LIST/$HOME/\~}"
 	ARCHITECTURE=aarch64
 fi
