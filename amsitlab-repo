@@ -83,7 +83,7 @@ apt upgrade -y
 
 apt install gnupg wget
 ## Download gnupg public key
-wget -O "$PUBKEY" https://amsitlab.github.io//pubkey.gpg
+wget -O "$PUBKEY" https://amsitlab.github.io/pubkey.gpg
 
 apt-key add "$PUBKEY"
 
