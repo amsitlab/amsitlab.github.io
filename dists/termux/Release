@@ -3,7 +3,7 @@ Version: 1
 Architectures: all
 Description: Unofficiall termux repository
 Suite: termux
-Date: Mon, 14 May 2018 18:59:19 +0000
+Date: Sun, 20 May 2018 12:58:21 +0000
 SHA256:
- 6b260484f12bf2cd22b8da2a757196415307b97b5b0af8963dcca142f429ce29 368 amsitlab/binary-all/Packages
- f63c98643077ff6dbb62483791001dfff75466757f1b83a2281b0a483ca11fa6 352 amsitlab/binary-all/Packages.xz
+ ee004693355ddbad1fbc07ebc2de230a55ebe0898b35ea08a5eaea7bd59fb6b9 368 amsitlab/binary-all/Packages
+ 30c7e90f39549b6decd322875ff99dc049897e31d2ca82b79c9c9d091bc6b9b7 352 amsitlab/binary-all/Packages.xz
