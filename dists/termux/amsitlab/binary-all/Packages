@@ -8,3 +8,12 @@ Filename: dists/termux/amsitlab/binary-all/commandex_1.0_all.deb
 Size: 153028
 SHA256: 6c57a69c0562f839db086ced482615914155a0ce711c6c7f9b6aa6f0bbd73ed0
 
+Package: smsid
+Version: 1.1
+Architecture: all
+Maintainer: Amsit (amsitlab)
+Description: A simple termux text message
+Filename: dists/termux/amsitlab/binary-all/smsid_1.1_all.deb
+Size: 66160
+SHA256: 09fdbc74c71693520b3dd760f43926e699d949ca6b78e1a32cde24b6b8886eab
+
