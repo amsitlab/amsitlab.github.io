@@ -6,23 +6,23 @@ Version: 1
 Architectures: all
 Description: Unofficiall termux repository
 Suite: termux
-Date: Sat, 28 Jul 2018 07:20:32 +0000
+Date: Sat, 28 Jul 2018 07:33:30 +0000
 SHA256:
- 4911602c577fe11fbb6fc1f89c52351e28d511e1ddf1d549cf66470338f86395 1848 amsitlab/binary-all/Packages
- e0158dcd6c4e12cf50d4d6c941514f9e5c941eab957b7f920efdd0da5c95508a 996 amsitlab/binary-all/Packages.xz
+ 45dc39ffc514a17d99ecf67cfb1226fe08bc2f30f74c2723ece2e393dfdf745f 1847 amsitlab/binary-all/Packages
+ b5491e5a7845a779838eed4d0fd33d5059b3856f70fe2783b3261f6e4ec3cca4 992 amsitlab/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJbXBlAAAoJEOs6OynQer0v1AkP/iLh2dRSmjy+4QkCI7izcLb1
-9dui+SnyiNiInUWI+o98fHsf/4vMzIoCNptKCLeQ0hdhDgDc767xON6lwKJuOUlT
-qk6mHJnI/XPrAAjLOCVWIbHf7pKan6c1tPGNju0oofOrDHUN3Rx6TqhdUwBEjHqJ
-j51Z/P6GrrGGoGYxDGll1VfPfVfct8XQqhgon8PfDvMV4goD0asRHXxcLEHDwdqe
-qo6mSzGfVxp0mmyRZY42MHxSxxFwPny5KCY67MsaUg5IUHCpK4YCjG7ledeMBdjb
-dBsfT84aWtnNybR+Dbr9h5+ct+6wydkC9ykpdvtT6/uYiFLJ5uI39xGruT6SqqpX
-4QhotD6jrMBju3NJ3cz8ytac/6QWx/ZljrMtgpcLBVfpIRFUD5JnOz6CGYhORnsD
-AsqtaPZ5DZY+hBw6Elkk747v+IMC3GROYRtz3EkacdqSnH6Tt1YFTOVTWvv9Hcjb
-2wZqx8YzCKdeAFpkYvQg/0hgn88/isKwJVtO//Z+/+LhmtV9gVE5mPJXXf3vy8aK
-Ijeonw/i9UH3N/dOQQLdCanW1TyP+yHn+Ofg+ZVR+B3KO7rjtYLari0kn3GjrdCx
-0A8dlDiGCDzpzwInV5EaP3S7tBgys3ESK1ufhSa4vCluR8hXAf8uYA4RvsNEY6o0
-ETy2DfsLaXbZbAHEkXaN
-=kRQL
+iQIcBAEBCgAGBQJbXBxLAAoJEOs6OynQer0vWGQQAI5peuuuYyzwj42EoU6dfQoY
+VW4vmkYGz2xXXUGWH/x6ESNCDCZo7GQc4PrbGzWfwtORYXML3Qs4+nckyno0zox7
+Xe0V1wZllNNg84JVat+s2rW0M9vbzG/2F6iEeGorV4JJdbE52qqmwIEn+Me/wTeg
+SmGgNZyL/nvNXgAkvdPeWj+dZwS/W2/x8ZN5nr0m/1Zb1liuhHOKhUmc9LQwmX62
+8zndC7cIkImlKtQ8soqzddbgf7GINmf4vsdhd47MP6ueoohxb2bfW+gAKECCxfXS
+yAkhu1GQtC3thqDA9rR4M9LkZrlDER87iehoZWnd1TqIPQyERr1AksZNW63PmHFn
+FFQL3x/t/Ppk2EfwnHq0VcEPiSaMnWp6iY9fkRVzGa9BvEwCX4v8wR3BKxdsAGMo
+481XayLyaJEzSUYOzd3f1X2ec37Y/WcnsOawJHk4GnGj5cu/4bQcHff8zKM+xQh3
+RAdl9B4Amht8AHbPwpFkEn8Bx1YvM3DyY6VHWs0NZPjlnFYNa388pnOnxRuTeQmQ
+z5bWxObH1eZtdPt5LwNNqiR+cEAW+vIjekgjYLK7jY5OIIIwoCFPOShItFBwfQji
+Rt990J7cZoG8lmb1SL49zbdsI465S0REr3mze9N9lLAOn+Ek9T6aYaKhoLIJpp+H
+Qm8/iK4gJt6fRRzXoTDy
+=6kMt
 -----END PGP SIGNATURE-----

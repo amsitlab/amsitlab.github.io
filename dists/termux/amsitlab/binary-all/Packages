@@ -43,8 +43,7 @@ Maintainer: Amsit (@amsitlab) <dezavue3@gmail.com>
 Description: Change Termux Style.
 Depends: gawk, sed, bash, curl
 Homepage: https://amsitlab.github.io/
-
 Filename: dists/termux/amsitlab/binary-all/style_1.0_all.deb
-Size: 2084
-SHA256: 13817815d330f97270c8c2bc075ab12ad7a4eba4c9f2a7679baa49e367852a0c
+Size: 2064
+SHA256: 820cbc95f5105f05aceef1ed76ec6214b4c20bddb5ff448cb40a9275dd7ca854
 
