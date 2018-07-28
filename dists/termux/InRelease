@@ -6,15 +6,23 @@ Version: 1
 Architectures: all
 Description: Unofficiall termux repository
 Suite: termux
-Date: Mon, 21 May 2018 00:17:41 +0000
+Date: Sat, 28 Jul 2018 06:32:59 +0000
 SHA256:
- 1a6c423f86e87ddba58903c3a361e98928ead48805718820052fc94c048aae51 632 amsitlab/binary-all/Packages
- f8d39f3b3870fa48d7d20b4f85de9edf0754b8a5a881c4b52061cde558dd14e5 456 amsitlab/binary-all/Packages.xz
+ 4911602c577fe11fbb6fc1f89c52351e28d511e1ddf1d549cf66470338f86395 1848 amsitlab/binary-all/Packages
+ e0158dcd6c4e12cf50d4d6c941514f9e5c941eab957b7f920efdd0da5c95508a 996 amsitlab/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iJwEAQEKAAYFAlsCECYACgkQeMU5K8ZeVIFlqAP+MHoDpwfJgb+v89d6vTFI11Wu
-CQ7NoZGDtN8qLopQ2ImevHBMe5H1m7dKZ4Znt/nhvEwESJIq6TI54sDaEPnIQQFw
-IwYy1Cau7XspRiceBTJM3AZySWtrBNkaF+pOxCdoUbccf7xNuI3PqfBe6JuZq7Da
-l5UAIpI9R3Dfjjfekqo=
-=VHFs
+iQIcBAEBCgAGBQJbXA4cAAoJEOs6OynQer0vFsIQAKwfJpencmS91ZfwOLLYkYHm
+p6jTeB9ETwo6uH8oQ/qnof7g7F2HDe8yVgtOnPUTmurUBa0dfkhHmMiKvNj8eOum
+YR3j8XPqxcaicwVEv10+QgJvrBKEdNAQ3sMrlSg6nS1Jx//e+X+Tme5Wd9xfVUYQ
+qfD9Qnoe1yygUNgKqVEy/OFIor6UQe3NkFhLgXkQWFKBtJ32VtkdBCljT1BgiWzD
+GGpAh87SwoomNbuY90patm3ewRdE9mhWNZxs3l8upw3bjw8XrqQMu+y49iQgE+pk
+tRnsbVe27dgSLaKBCNV/nNrNBQE5fEHwY/B3a5clwgvDDLamgYfO8PDLsbNcHPXM
+B3RWbAGBEiPZn55swDFAK0mbqpMDimBg8gLyK7V02a3OMbUjULLL4EQEVfmbsDTo
+Ihj03fM18cnBbV/TsiGJAO64+OlUnX7qPcQ+mvKUcVg93KArbnrbhnPDxFUg4sv/
+PiGIjmh7IaTl/DYdhTN3pH3/yhZOJefmgTniQhl3MGVi4P6oVp7bvdEDsfV7z7Z3
+vdpAVT3fJ1JoUy2lUEXu6fiPWeKYBc7dS0Bt8x9rKYru1kE4cLi3DrCKsNoJ2rCI
+6AnPP7SQOr94hwugixNek1v0+XWAznN3K5tzZDk0fGhaQbPZkSqalk0J6gOsWqFa
+sg6mX8nh5BUIedUSUv6y
+=TdSt
 -----END PGP SIGNATURE-----
