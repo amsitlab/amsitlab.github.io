@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: amsitlab
+Version: 1
+Architectures: all
+Description: Unofficiall termux repository
+Suite: amsitlab
+Date: Sun, 12 Aug 2018 14:45:03 +0000
+SHA256:
+ 5aa8f16ede688c908e7343ec4a88f6e7b0d78129012f5e1ec63fdd1ff664e1c6 1847 termux/binary-all/Packages
+ 01dec9a58f1d7cc8ac045fceaf6faca8cc239042c81c6db3d0120c9b1f556fc2 992 termux/binary-all/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJbcEfwAAoJEOs6OynQer0vBaMP/jYTDxh1TlrSh9dAcGvFdmMj
+CLhigOgG38Ec3NpJjiV+/XOGNzIO2JX58JG3pIedrgV+iHcZ/H5dGdNff7L1tLgY
+v7xuBFt4RX2GBG2076l4ENOGfEBgQf/CThHzxgYp+M6Elani1ZkQqLjHE7yjBJAe
+3UbNR7jGV3WSr0tqv0VYofEvP9V7vVzIIG08IqOqRGR7In6b2frm9ZUztPmc/fQZ
+qxKI76rMY3/Ic/3Wpk5x82Uzv383CWkrLg8adQqYpDZRqyENJOBHM2U5IitTJrSj
+MubSkXBx4WbcskA98RVpaVmBPNYCBIvU6qmSdD6W/VbbOIC3HucRk5V0Thw+ZBbe
+4v9pUSpj5R3np5H4/FHwMqQRgnlxAQ+tDrXdGqD9b4ioE6VQCnMmsrmbVDUf4cX5
+4oP4gnZTzNIssYR7MdJ9YBbjo2VLNkv7C0LsVa0l/kjNqbB5+nNk8A5FKi5jFBA7
+1D9rq7gjGd9wj7C/IBRhL3Pyrtv+q1eeA6jS58O1Mket7hglKh280McsBtppqIFt
+LlEUMeceiaDy6kWxkCT+WdKvdqfA4TLl8UQu2Iuea3zetxGNd4lihIn7O0wown+5
+MHSZWnhBaoJZy7I9dinhTfc1s1gu1DBwwE1kZM7aYhwg5m3WbxUg/t0ywI7xijrr
+tCUyeswckyCOkm36As5p
+=8Dd4
+-----END PGP SIGNATURE-----

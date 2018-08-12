@@ -13,10 +13,10 @@
 
 ## ARCHITECTURES="all aarch64 arm i686 x86_64"
 ARCHITECTURES="all"
-CODENAME="termux"
+CODENAME="amsitlab"
 SUITE="${CODENAME}"
 #COMPONENTS="x-gui x-gui-experimental
-COMPONENTS="amsitlab"
+COMPONENTS="termux"
 #DESCRIPTION="A repository of X/GUI packages for Termux"
 DESCRIPTION="Unofficiall termux repository"
 #GPG_KEY="32545795"

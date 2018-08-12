@@ -110,7 +110,7 @@ case "$ARCHITECTURE" in
 		;;
 esac
 
-echo "deb [trusted=true,arch=all,${ARCHITECTURE}] https://amsitlab.github.io/ termux amsitlab" >> "$SOURCES_LIST"
+echo "deb [trusted=true,arch=all,${ARCHITECTURE}] https://amsitlab.github.io/ amsitlab termux" >> "$SOURCES_LIST"
 
 
 }

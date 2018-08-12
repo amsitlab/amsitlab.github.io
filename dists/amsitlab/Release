@@ -1,0 +1,9 @@
+Codename: amsitlab
+Version: 1
+Architectures: all
+Description: Unofficiall termux repository
+Suite: amsitlab
+Date: Sun, 12 Aug 2018 14:45:03 +0000
+SHA256:
+ 5aa8f16ede688c908e7343ec4a88f6e7b0d78129012f5e1ec63fdd1ff664e1c6 1847 termux/binary-all/Packages
+ 01dec9a58f1d7cc8ac045fceaf6faca8cc239042c81c6db3d0120c9b1f556fc2 992 termux/binary-all/Packages.xz

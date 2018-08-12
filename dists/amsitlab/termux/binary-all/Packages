@@ -3,7 +3,7 @@ Version: 2.0b4
 Maintainer: Amsit <dezavue3@gmail.com> (original author - by Pat Niemeyer <pat@pat.net>)
 Architecture: all
 Description: BeanShell is a small, free, embeddable Java source interpreter with object scripting language features, written in Java 
-Filename: dists/termux/amsitlab/binary-all/beanshell_2.04_all.deb
+Filename: dists/amsitlab/termux/binary-all/beanshell_2.04_all.deb
 Size: 348824
 SHA256: 5b712fe1ef1effa8b266007c34db7360e4910b2110e32ba322d64e4a034034de
 
@@ -13,7 +13,7 @@ Maintainer: Amsit
 Description: Dex commandline creator
 Version: 1.0
 Depends: bash (>= 4.4.19), dx (>= 27.0.3), ecj (>= 4.6.2-3), tmux (>= 2.7), sed (>= 4.5), coreutils (>= 8.29) 
-Filename: dists/termux/amsitlab/binary-all/commandex_1.0_all.deb
+Filename: dists/amsitlab/termux/binary-all/commandex_1.0_all.deb
 Size: 153028
 SHA256: 6c57a69c0562f839db086ced482615914155a0ce711c6c7f9b6aa6f0bbd73ed0
 
@@ -23,7 +23,7 @@ Version: 4.8
 Maintainer: Eric Lafortune, Amsitlab(@amsitlab)
 Hompage: https://www.guardsquare.com/en/proguard
 Description: ProGuard is an open source command-line tool that shrinks, optimizes and obfuscates Java code. Port to android Dalvik Vm by Amsit.
-Filename: dists/termux/amsitlab/binary-all/proguard_4.8_all.deb
+Filename: dists/amsitlab/termux/binary-all/proguard_4.8_all.deb
 Size: 270564
 SHA256: 06b1e1cc28eee047051d7bc27bc39c08f350529bd70a6e391dfa85e329371857
 
@@ -32,7 +32,7 @@ Version: 1.1
 Architecture: all
 Maintainer: Amsit (amsitlab)
 Description: A simple termux text message
-Filename: dists/termux/amsitlab/binary-all/smsid_1.1_all.deb
+Filename: dists/amsitlab/termux/binary-all/smsid_1.1_all.deb
 Size: 66160
 SHA256: 09fdbc74c71693520b3dd760f43926e699d949ca6b78e1a32cde24b6b8886eab
 
@@ -43,7 +43,7 @@ Maintainer: Amsit (@amsitlab) <dezavue3@gmail.com>
 Description: Change Termux Style.
 Depends: gawk, sed, bash, curl
 Homepage: https://amsitlab.github.io/
-Filename: dists/termux/amsitlab/binary-all/style_1.0_all.deb
+Filename: dists/amsitlab/termux/binary-all/style_1.0_all.deb
 Size: 2064
 SHA256: 820cbc95f5105f05aceef1ed76ec6214b4c20bddb5ff448cb40a9275dd7ca854
 
