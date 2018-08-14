@@ -53,34 +53,24 @@ apt install -y ecj dx
 
 Praktek:
 1. Buat directory untuk kita bekerja.
-
-
 ```bash
 mkdir -p $HOME/workspace/java/mytools
 ```
 
 2. Pindah Ke directory yang baru saja di buat.
-
-
 ```bash
 cd !$
 ```
 
 3. Pastikan kita berada di directory _/data/data/com.termux/files/home/workspace/java/mytools_, cek dengan perintah
-
-
 ```bash
 pwd
 ```
 
 4. Buat lagi directory khusus untuk file java.
-
-
 ```bash
 mkdir -p src/main/java/my/tools
 ```
-
-
 > perhatikan directory diatas.
 >
 > src/main/java/my/tools
@@ -94,33 +84,24 @@ mkdir -p src/main/java/my/tools
 
 
 5. Buat file _src/main/java/my/tools/Main.java_ menggunakan nano, vim atau yg lainnya.
-
-
 > Karna kita bekerja di directory internal milik termux,
 > kita tidak bisa menggunakan aplikasi external seperti
 > Quoda, Anacode, AIDE, Droidedit atau yang lainnya.
-
 
 Pengguna vim ketik: 
 ```bash
 vim src/main/java/my/tools/Main.java
 ```
-
-
 Pengguna nano ketik:
 ```bash
 nano src/main/java/my/tools/Main.java
 ```
 
-
 > Pengguna editor lainnya silahkan menyesuaikan
 > dan targetkan file yang akan di edit ke
 > _src/main/java/my/tools/Main.java_.
 
-
 6. Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah:
-
-
 ```java
 // ini komentar
 
@@ -140,11 +121,10 @@ public class Main {
 	}
 }
 ```
-
-
 Lalu save.
 
 7. Kompilasi java ke java byte code (.class)
+
 Untuk mengkompilasi java ke java bytecode kita membutuhkan packet _ecj_ yang sebelumnya sudah kita install di atas.
 Ketik:
 ```bash
@@ -152,16 +132,14 @@ ecj -d ./classes -verbose -classpath $PREFIX/share/java/android.jar -sourcepath 
 ```
 Keterangan:
 > option **-d** directory untuk hasil kompilasi, kita targetkan ke _./classes_.
-
+>
 > option **-verbose** menampilkan proses kompilasi.
 >
 > option **-classpath** menambahkan library yang di butuhkan (di C programming di sebut include dir).
 >
 > option **-sourcepath** memberi tahu kompiler bahwa semua file java ada di _./src/main/java_ directory.
 
-
 Pada bagian
-
 ```bash
 $(find ./src/main/java -type f -name \*.java)
 ``` 
