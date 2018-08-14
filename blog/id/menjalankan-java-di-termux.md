@@ -96,12 +96,13 @@ Pengguna nano ketik:
 ```bash
 nano src/main/java/my/tools/Main.java
 ```
-
 > Pengguna editor lainnya silahkan menyesuaikan
 > dan targetkan file yang akan di edit ke
 > _src/main/java/my/tools/Main.java_.
 
+
 6. Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah:
+
 ```java
 // ini komentar
 
@@ -123,8 +124,8 @@ public class Main {
 ```
 Lalu save.
 
-7. Kompilasi java ke java byte code (.class)
 
+7. Kompilasi java ke java byte code (.class)
 Untuk mengkompilasi java ke java bytecode kita membutuhkan packet _ecj_ yang sebelumnya sudah kita install di atas.
 Ketik:
 ```bash
