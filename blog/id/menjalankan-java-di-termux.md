@@ -82,7 +82,6 @@ mkdir -p src/main/java/my/tools
 >
 > _my/tools_ adalah directory untuk packet/package java kita.
 
-
 5. Buat file _src/main/java/my/tools/Main.java_ menggunakan nano, vim atau yg lainnya.
 > Karna kita bekerja di directory internal milik termux,
 > kita tidak bisa menggunakan aplikasi external seperti
@@ -100,8 +99,8 @@ nano src/main/java/my/tools/Main.java
 > dan targetkan file yang akan di edit ke
 > _src/main/java/my/tools/Main.java_.
 
+6. Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah.
 
-6. Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah:
 
 ```java
 // ini komentar
@@ -122,10 +121,10 @@ public class Main {
 	}
 }
 ```
+
 Lalu save.
 
-
-7. Kompilasi java ke java byte code (.class)
+7. Kompilasi java ke java byte code (.class).
 Untuk mengkompilasi java ke java bytecode kita membutuhkan packet _ecj_ yang sebelumnya sudah kita install di atas.
 Ketik:
 ```bash
