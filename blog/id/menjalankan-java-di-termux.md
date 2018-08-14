@@ -52,22 +52,22 @@ apt install -y ecj dx
 ```
 
 Praktek:
-1. Buat directory untuk kita bekerja.
+* Buat directory untuk kita bekerja.
 ```bash
 mkdir -p $HOME/workspace/java/mytools
 ```
 
-2. Pindah Ke directory yang baru saja di buat.
+* Pindah Ke directory yang baru saja di buat.
 ```bash
 cd !$
 ```
 
-3. Pastikan kita berada di directory _/data/data/com.termux/files/home/workspace/java/mytools_, cek dengan perintah
+* Pastikan kita berada di directory _/data/data/com.termux/files/home/workspace/java/mytools_, cek dengan perintah
 ```bash
 pwd
 ```
 
-4. Buat lagi directory khusus untuk file java.
+* Buat lagi directory khusus untuk file java.
 ```bash
 mkdir -p src/main/java/my/tools
 ```
@@ -82,7 +82,7 @@ mkdir -p src/main/java/my/tools
 >
 > _my/tools_ adalah directory untuk packet/package java kita.
 
-5. Buat file _src/main/java/my/tools/Main.java_ menggunakan nano, vim atau yg lainnya.
+* Buat file _src/main/java/my/tools/Main.java_ menggunakan nano, vim atau yg lainnya.
 > Karna kita bekerja di directory internal milik termux,
 > kita tidak bisa menggunakan aplikasi external seperti
 > Quoda, Anacode, AIDE, Droidedit atau yang lainnya.
@@ -99,7 +99,7 @@ nano src/main/java/my/tools/Main.java
 > dan targetkan file yang akan di edit ke
 > _src/main/java/my/tools/Main.java_.
 
-6. Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah.
+* Isi file _src/main/java/my/tools/Main.java_ dengan kode di bawah.
 
 
 ```java
@@ -124,7 +124,7 @@ public class Main {
 
 Lalu save.
 
-7. Kompilasi java ke java byte code (.class).
+*  Kompilasi java ke java byte code (.class).
 Untuk mengkompilasi java ke java bytecode kita membutuhkan packet _ecj_ yang sebelumnya sudah kita install di atas.
 Ketik:
 ```bash
