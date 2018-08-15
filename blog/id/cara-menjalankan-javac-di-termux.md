@@ -194,7 +194,7 @@ vim $HOME/bin/javac
 >
 
 * Isi dengan kode berikut.
->
+
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -203,7 +203,6 @@ dalvikvm -cp $HOME/share/dex/javac-1.0-dex.jar \
 		-bootclasspath $PREFIX/share/java/android.jar
 		$@
 ```
->
 
 * Lalu save.
 
