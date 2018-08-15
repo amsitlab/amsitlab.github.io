@@ -51,16 +51,19 @@ apt install -y ecj
 # Memulai
 Setelah peralatan sudah tersedia, mari kita explore.
 * Pertama-tama kita buat directory untuk bekerja.
+
 ```bash
 mkdir -p $HOME/workspace/java/porting-javac
 ```
 
 * Lalu kita pindah ke directory yang baru kita buat.
+
 ```bash
 cd !$
 ```
 * Pastikan kita di directory yg benar.
 Ketik:
+
 ```bash 
 pwd
 ```
@@ -68,16 +71,19 @@ pwd
 * Jika hasilnya **{{HOME}}/workspace/java/porting-javac** mari ketahap selanjutnya.
 
 * Download **javac-1.0.jar.zip**
+
 ```bash
 wget -O "javac-1.0.jar.zip" "http://www.java2s.com/Code/JarDownload/javac/javac-1.0.jar.zip"
 ```
 
 * Meng-extract file **javac-1.0-jar.zip** yang baru di download.
+
 ```bash
 unzip javac-1.0.jar.zip -d .
 ```
 
 * lalu check
+
 ```bash
 ls
 ```
@@ -86,6 +92,7 @@ ls
 
 * Translate ke dex.
 Mari translate java bytecode ke dex, dengan cara 
+
 ```bash
 dx --dex \
    --verbose \
@@ -94,7 +101,8 @@ dx --dex \
    javac-1.0.jar
 ```
 
-& Tunggu sekitar 1-2 menit, setelah selesai mari cek
+> Tunggu sekitar 1-2 menit, setelah selesai mari cek
+
 ```bash
 ls
 ```
@@ -103,6 +111,7 @@ ls
 
 # Testing
 * Buat file java benama **Test.java** dan isi text di bawah.
+
 ```java
 
 import static java.lang.System.out;
@@ -125,12 +134,14 @@ public class Test {
 
 
 * Lalu compile file **Test.java** dengan progran **javac** yg baru saja kita translate.
+
 ```bash
 dalvikvm -cp ./javac-1.0-dex.jar \
 	 com.sun.tools.javac.Main \
 	 	-bootclasspath $PREFIX/share/java/android.jar \
 		Test.java
 ```
+
 * Jika menghasilkan file **Test.claas** maka kita berhasil.
 
 > Commandnya terlalu panjang? mari kita buat shortcuts.
@@ -142,26 +153,31 @@ dalvikvm -cp ./javac-1.0-dex.jar \
 > text editor favorit kalian.
 
 * Buat Directory baru di **$HOME** bernama **share/dex**
+
 ```bash
 mkdir -p $HOME/share/dex
 ```
 
 * Pindahkan file **./javac-1.0-dex.jar** ke **$HOME/share/dex**.
+
 ```bash
 mv ./javac-1.0-dex.jar $HOME/share/dex
 ```
 
 * Buat directory baru di **$HOME** bernama **bin**.
+
 ```bash
 mkdir -p $HOME/bin
 ```
 
 * Buat file baru di **$HOME/bin** bernama **javac**
+
 ```bash
 vim $HOME/bin/javac
 ```
 
 * Isi dengan kode berikut.
+
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -173,7 +189,8 @@ dalvikvm -cp $HOME/share/dex/javac-1.0-dex.jar \
 
 * Lalu save.
 > Sekarang kita bisa menjalankan **javac** dengan perintah 
-```
+
+```bash
 bash $HOME/bin/javac
 ```
 
