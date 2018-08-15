@@ -125,8 +125,10 @@ ls
 * Buat file java bernama **Test.java**.
 > isi text di bawah.
 >
+
 ```java
 import static java.lang.System.out;
+
 /**
  * Just Test class
  *
@@ -142,7 +144,6 @@ public class Test {
 
 }
 ```
->
 
 * Lalu compile file **Test.java** dengan progran **javac** yg baru saja kita translate.
 >
