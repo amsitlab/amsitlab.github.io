@@ -126,7 +126,7 @@ ls
 * Buat file java bernama **Test.java**.
 > isi text di bawah.
 >
-```java
+```
 import static java.lang.System.out;
 
 /**
