@@ -59,10 +59,12 @@ mkdir -p $HOME/workspace/java/porting-javac
 >
 
 * Lalu kita pindah ke directory yang baru kita buat.
-
+>
 ```bash
 cd !$
 ```
+>
+
 * Pastikan kita di directory yg benar.
 > Ketik:
 >
@@ -71,7 +73,7 @@ pwd
 ```
 >
 
-* Jika hasilnya **{{HOME}}/workspace/java/porting-javac** mari ketahap selanjutnya.
+* Jika hasilnya **/data/data/com.termux/files/home/workspace/java/porting-javac** mari ketahap selanjutnya.
 
 * Download **javac-1.0.jar.zip**
 >
@@ -109,7 +111,7 @@ dx --dex \
 ```
 >
 
-> Tunggu sekitar 1-2 menit, setelah selesai mari cek
+* Tunggu sekitar 1-2 menit, setelah selesai mari cek
 >
 ```bash
 ls
@@ -120,7 +122,9 @@ ls
 
 
 # Testing
-* Buat file java benama **Test.java** dan isi text di bawah.
+
+* Buat file java bernama **Test.java**.
+> isi text di bawah.
 >
 ```java
 import static java.lang.System.out;
