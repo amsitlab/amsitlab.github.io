@@ -144,7 +144,6 @@ public class Test {
 
 }
 ```
->
 
 * Lalu compile file **Test.java** dengan progran **javac** yg baru saja kita translate.
 >
