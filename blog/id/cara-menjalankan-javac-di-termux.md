@@ -161,7 +161,7 @@ dalvikvm -cp ./javac-1.0-dex.jar \
 
 
 # Membuat Shortcuts
-> Saya pengguna [vim](http://vim.org) dan akan menggunakan vim
+> Saya pengguna [vim](https://www.vim.org) dan akan menggunakan vim
 > sebagi text editor di panduan ini. tolong sesuaikan dengan
 > text editor favorit kalian.
 
