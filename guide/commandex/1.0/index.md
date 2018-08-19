@@ -71,4 +71,4 @@ Untuk tutorial saya buat artikel terpisah.
 - [x] [Integrasi Dengan Picocli]
 
 
-[Integrasi Dengan Picocli]: https://amsitlab.github.io/guide/commandex/1.0/integrasi-dengan-picocli .
+[Integrasi Dengan Picocli]: https://amsitlab.github.io/guide/commandex/1.0/integrasi-dengan-picocli

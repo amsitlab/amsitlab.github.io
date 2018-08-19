@@ -39,7 +39,7 @@ Choose one of template number:
 isi dengan angka `1`, tekan enter lalu commandex akan membuatkan direktori untuk kita bekerja, membuatkan kita file **./src/main/java/com/mytools/App.java** seperti pada gambar berikut:
 
 <p align="center">
-	<img src="/images/1.png">
+	<img src="https://amsitlab.github.io/guide/commandex/1.0/images/1.png">
 </p>
 
 Tahap selanjutnya mari kita edit file **./src/main/java/com/mytools/App.java** dengan editor favorit masing-masing, saya menggunakan vim, tolong sesuaikan dengan editor anda.
@@ -104,7 +104,7 @@ commandex jar
 Maka **commandex** akan men-compilasi code, membuat file .jar, membuat bash shortcuts untuk anda, seperti gambar di bawah.
 
 <p align="center">
-	<img src="/images/2.png">
+	<img src="https://amsitlab.github.io/guide/commandex/1.0/images/2.png">
 </p>
 
 Sekarang kita bisa menjalankan aplikasi dengan perintah:
@@ -122,7 +122,7 @@ Atau menampilkan `help` untuk aplikasi anda dengan command:
 ```
 
 <p align="center">
-	<img src="/images/3.png">
+	<img src="https://amsitlab.github.io/guide/commandex/1.0/images/3.png">
 </p>
 
 
