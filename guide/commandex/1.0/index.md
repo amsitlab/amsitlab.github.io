@@ -20,7 +20,7 @@ Commandex memberikan pilihan untuk anda yaitu
 Saya rekomendasikan menggunakan pilihan ke 2, karna ini mudahkan developer membuat aplikasi tanpa perlu pusing dengan command line parsing.
 
 
-#Instalasi
+# Instalasi
 
 Jika anda sudah menambakan [amsitlab repo](https://amsitlab.github.io/amsitlab-repo) anda bisa meng-install dengan mengetik:
 
@@ -43,23 +43,23 @@ setiap command memiliki fungsi masing-masing.
 >
 > Membuatkan anda directory untuk bekerja.
 > Defaultnya commandex membuatkan workspace directory
-> didalam folder **~/workspace/java/**_<nama-projek>_, namun anda bisa
-> merubahnya dengan men-set variable *$CMDX_WORKSPACE*.
+> didalam folder **~/workspace/java/**, namun anda bisa
+> merubahnya dengan men-set variable **$CMDX****_****WORKSPACE**.
 
 2. **commandex compile**
 > Command ini berfungsi untuk meng-compile file java menjadi javabytecode.
 > 
-> Command ini memnghasilkan kumpulan file *.class* di
-> dalam direcrory *~/workspace/java/<nama-projek>/classes* .
+> Command ini memnghasilkan kumpulan file _.class_ di
+> dalam direcrory _~/workspace/java/nama-projek/classes_ .
 
 3. **commandex jar**
 > Command ini berfungsi untuk men-traslate java bytecode
 > ke dalvik executable agar bisa berjalan di [dalvikvm](https://id.m.wikipedia.org/wiki/Dalvik_(perangkat_lunak))
 > lalu mem-pack menjadi sebuah file .jar.
-> command ini juga membuatkan anda *bash shortcuts* agar
+> command ini juga membuatkan anda _bash_ _shortcuts_ agar
 > aplikasi dapat di panggil dengan command yang simple.
 
-4. commandex config
+4. **commandex config**
 > Command ini berfungsi untuk meng-edit default project config
 > yang di definisikan di file _.config.proj_ .
 > command ini menggunakan [vim](https://www.vim.org) sebagai default editor, namun anda bisa merubahnya dengan
