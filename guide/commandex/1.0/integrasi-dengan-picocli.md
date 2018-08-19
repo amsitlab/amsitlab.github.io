@@ -2,12 +2,15 @@ Integrasi Dengan Picocli
 ========================
 
 
+
 # Pembuka
-Panduan ini menujukan bagaimana membuat java commandline app dengan commandex yang ter-integrasi dengan library [picocli], untuk dokumetasi lebih lanjut tentang picocli silahkan menuju official website di atas.
 --------------------------------------------------------
+Panduan ini menujukan bagaimana membuat java commandline app dengan commandex yang ter-integrasi dengan library [picocli], untuk dokumetasi lebih lanjut tentang picocli silahkan menuju official website di atas.
+
 
 
 # Index
+--------------------------------------------------------
 > Kita akan membuat aplikasi bernama **mytools**.
 >
 > Saya menggunakan [vim] sebagai editor, anda bisa mesusaikan 
@@ -122,7 +125,10 @@ Atau menampilkan `help` untuk aplikasi anda dengan command:
 	<img src="/images/3.png">
 </p>
 
+
+
 # Catatan
+--------------------------------------------------------
 > Sekali lagi saya himbau.
 >
 > Default code bisa kita edit sesuai kebutuhan.
