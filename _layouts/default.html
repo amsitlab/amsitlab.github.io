@@ -40,18 +40,18 @@
             {% endif %}
 	</nav>
 	 -->
-        <img src="{{ '/assets/images/logo-width-100x100.png' | relative_url }}" alt="logo" />
+        <img src="{{ '/assets/images/favicon-16x16.png' | relative_url }}" alt="logo" />
     </div><!-- end header -->
     <div class="wrapper">
       <section>
         <div id="title">
  	  <h1>{{ site.title | default: site.github.repository_name }}</h1>
 	  {% if site.description or site.github.project_tagline %}
-	  <p>{{ site.description | default: site.github.project_tagline }}</p>
+	  <p align="center">{{ site.description | default: site.github.project_tagline }}</p>
+	  <hr>
 	  {% endif %}
 	  <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         </div>
-	<hr>
       {{ content }}
       </section>
     </div>
