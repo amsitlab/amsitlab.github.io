@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 Commandex Guide
 ===============
 
