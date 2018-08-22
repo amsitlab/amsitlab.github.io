@@ -45,7 +45,7 @@
       <section>
         <div id="title">
 		<!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
-	  <p align="center"><img src="{{ '/assets/images/logo-width-100x100.png" alt="logo" /></p>
+		<p align="center"><img src="{{ '/assets/images/logo-width-100x100.png' | relative_url }}" alt="logo" /></p>
 	  {% if site.description or site.github.project_tagline %}
 	  <p align="center">{{ site.description | default: site.github.project_tagline }}</p>
 	  <hr>
