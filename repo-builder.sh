@@ -100,4 +100,4 @@ for repo_component in ${COMPONENTS}; do
     done
 done
 
-cat "${RELEASE_PATH}" | gpg --clearsign --default-key "${GPG_KEY}" --digest-algo SHA512 -o "${INRELEASE_PATH}"
+cat "${RELEASE_PATH}" | gpg --clearsign --default-key "${GPG_KEY}" --yes --pinentry-mode loopback --digest-algo SHA512 -o "${INRELEASE_PATH}"
