@@ -17,6 +17,18 @@ Filename: dists/termux/amsitlab/binary-all/commandex_1.0_all.deb
 Size: 153028
 SHA256: 6c57a69c0562f839db086ced482615914155a0ce711c6c7f9b6aa6f0bbd73ed0
 
+Package: jdktools
+Version: 1.0
+Architecture: all
+Maintainer: @amsitlab
+Description: The collection of Jdk tools has build to dex classes to run on dalvikvm.
+Homepage: https://amsitlab.github.io/
+Conflicts: javac
+
+Filename: dists/termux/amsitlab/binary-all/jdktools_1.0_all.deb
+Size: 7024360
+SHA256: 2c116c372a3f1c3821d5e0ec03ab1245e4487662365d11e66ce0f36e38738c86
+
 Package: proguard
 Architecture: all
 Version: 4.8
