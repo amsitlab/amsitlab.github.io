@@ -78,10 +78,10 @@ help(){
 enable(){
 
 apt update
-apt upgrade -y
+#apt upgrade -y
 
 
-apt install gnupg wget
+#apt install gnupg wget
 ## Download gnupg public key
 wget -O "$PUBKEY" https://amsitlab.github.io/pubkey.gpg
 

@@ -1,9 +1,9 @@
 Codename: termux
 Version: 1
-Architectures: all
+Architectures: all aarch64 arm i686 x86_64
 Description: Unofficiall termux repository
 Suite: termux
-Date: Sat, 16 Feb 2019 17:10:23 +0000
+Date: Sat, 16 Feb 2019 17:56:05 +0000
 SHA256:
- 8ff8b2ab314aa22cfd17b3f7bf7e1826465db053f660fd5e1c092925f4a926e2 2212 amsitlab/binary-all/Packages
- c6ec0c6f5a028b6a0b995a9559eea189ec2f3e9e2c3e0c63931a102efbdbdb8e 1120 amsitlab/binary-all/Packages.xz
+ fc284056fccee5c9917623c475dc733a8fc22c8ffb6fb060c899b42e4a5aa246 2250 amsitlab/binary-all/Packages
+ 0c89fa257e25cff0e92011ba590977517d279d10570e1511d53141f7bca786ef 1124 amsitlab/binary-all/Packages.xz

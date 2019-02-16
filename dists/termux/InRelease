@@ -3,27 +3,27 @@ Hash: SHA512
 
 Codename: termux
 Version: 1
-Architectures: all
+Architectures: all aarch64 arm i686 x86_64
 Description: Unofficiall termux repository
 Suite: termux
-Date: Sat, 16 Feb 2019 17:10:23 +0000
+Date: Sat, 16 Feb 2019 17:56:05 +0000
 SHA256:
- 8ff8b2ab314aa22cfd17b3f7bf7e1826465db053f660fd5e1c092925f4a926e2 2212 amsitlab/binary-all/Packages
- c6ec0c6f5a028b6a0b995a9559eea189ec2f3e9e2c3e0c63931a102efbdbdb8e 1120 amsitlab/binary-all/Packages.xz
+ fc284056fccee5c9917623c475dc733a8fc22c8ffb6fb060c899b42e4a5aa246 2250 amsitlab/binary-all/Packages
+ 0c89fa257e25cff0e92011ba590977517d279d10570e1511d53141f7bca786ef 1124 amsitlab/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxoRAATHGRlemF2dWUz
-QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L5XYD/9UA6vdhNw20FFFSGF5z9Ailwbq9dNJ
-js6ICIesVat51rSsoqHU3kDeOmz3MbddeVtlV7hSLf7H0qgNimfZjcoTRDY+RGHH
-gbjmy2iOlGPKiXc5hnhHaC038B4lDc9LMXE9PyQ8GParzgRYfHGSJdW0ugZV0Ypc
-yhl/dZ/+kSfzXiLeHoQTV5T/AwYtvywCR2S5GCmEPmZq0uO7ejlwpcY3O04mWPig
-A9gLaS7o2f9rEXju3SXDZaIQW/kADuEnG9CrkkTc8aSpuB4hg/ge5SgXIIm3t8LU
-xw8uUcFjBmkGtwH4hzN0ToH8gHqcz+dleVUDwpwPmNnkNsxTwX2tb6dqFB5qAE4h
-7M2bwmEBTEUJEc4/DXaZ/pbTs9nLpF36gs5vOVV+Kfnf8Ug8oKG30IAI5qYdJMuB
-ap3DYaFnKGoeoqGgYxZrd1M0zcb2IW+rrf+sEzYeTT5m6rtmnGS0tq+CT8A8Iy4/
-Qaky7t+QgaJuOC3P5K7YfVTuGGL1z5zG3RKT9ZKh5ceOzAIHmwvHJ7hgohglUi9Z
-d+P5BI3HdC6ENDBrq90mNAnaEDygpc/lammtODHPdjiuz/MyuJuSH13P+90Q9ISs
-oDibnk6MWWEfGoGAg3kU3MQ0dHl028UQWP1vKomuyCmmSfydTjzmKWwT4ioDqulR
-mtwtxEd3E9ts5g==
-=3aKw
+iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxoTrYTHGRlemF2dWUz
+QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L950EACcFzyxrtKuD4I9z4CV5/KRYEtEx48v
+oHT6tnv/1D3s8poazk9RTbhLwsGnR3nVSFR4nmdEu0bDSP87Ph7nZ8Dx2wDadPim
+VXMazHzhqygfVjBaG7qxKoM0GtB58iGY2MqSR6aGfAM4HDCQm4j2pBCBM/hW+ucp
+i4u8HvAVwyPhrZBopWt8y3MABPRanlAuxONT6A+5vyciUWbAbST0AbDyT80sVugf
+WOBhI6tcUdMWqolsfWpDJkgtnBSjfun+Zqo2jb64jiSZSMxoPbvzGKYN8ddmen7L
+ulntalKe22E+YlV0bXuS+Ak+dNu6NfzsbkZ/DtqUpc+/isgqbDHCjalbRRgqv82H
+BqgpqG4BO7mONuswI0XsfCUUDbKVqlW1cE1l/nDUYCSCpvTYbboYbGF1aCeO+jwe
+ZSq/oq0dd0JRzuFQAWD6o8KNgsmwqFO80elWAZqiLu8EyaG/5cCLJRyknqwAUiSQ
+LIesQdgd1/YpmAFauSjq3M84Eo98rvqN3qt3/O/eNeCL6z6D004RlFsPEnE1mlMu
+YI6WJTGHjplPP//b7tQNRLes8/hYWo7/C6xnFr95Wm+tk0nwGB3Wp6Cr7FAP2mpb
+ISbFphHROXHlNiCouQhCCsfW4K5QPmmi8z/iqmJc8HqjNePTK6dzcRQZzg1hFk0u
+1oaFUWikDTPyzg==
+=ztrN
 -----END PGP SIGNATURE-----

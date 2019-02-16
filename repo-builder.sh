@@ -11,8 +11,8 @@
 
 
 
-## ARCHITECTURES="all aarch64 arm i686 x86_64"
-ARCHITECTURES="all"
+ARCHITECTURES="all aarch64 arm i686 x86_64"
+#ARCHITECTURES="all"
 CODENAME="termux"
 SUITE="${CODENAME}"
 #COMPONENTS="x-gui x-gui-experimental
