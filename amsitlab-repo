@@ -20,7 +20,7 @@ PUBKEY="${TMPDIR}/pubkey.gpg"
 ## user device architecture
 ARCHITECTURE=$(uname -m)
 ## location of sources.list
-SOURCES_LIST="${PREFIX}/etc/apt/sources.list"
+SOURCES_LIST="${PREFIX}/etc/apt/sources.list.d/amsitlab.list"
 
 
 ## main program
@@ -73,17 +73,24 @@ help(){
 	__help
 }
 
+__missing () {
+	if [ "x`which ${PREFIX}/bin/${2}`" == "x" ]; then
+		apt install -y $1
+	fi	
+}
 
 ## enabling repository
 enable(){
-
 apt update
-#apt upgrade -y
+apt upgrade -y
 
 
+echo "Enabaling"
 #apt install gnupg wget
+__missing "curl" "curl"
+
 ## Download gnupg public key
-wget -O "$PUBKEY" https://amsitlab.github.io/pubkey.gpg
+curl -# -L "https://amsitlab.github.io/pubkey.gpg" -o "$PUBKEY"
 
 apt-key add "$PUBKEY"
 
@@ -110,7 +117,9 @@ case "$ARCHITECTURE" in
 		;;
 esac
 
-echo "deb [trusted=true,arch=all,${ARCHITECTURE}] https://amsitlab.github.io/ termux amsitlab" >> "$SOURCES_LIST"
+	[ ! -r "$SOURCES_LIST" ] && {
+		echo "deb [trusted=true,arch=all,${ARCHITECTURE}] https://amsitlab.github.io/ termux amsitlab" > "$SOURCES_LIST"
+	}
 
 
 }
@@ -118,7 +127,8 @@ echo "deb [trusted=true,arch=all,${ARCHITECTURE}] https://amsitlab.github.io/ te
 
 ## Disabling repo
 disable(){
-	sed -i '/https:\/\/amsitlab.github.io\//d' "$SOURCES_LIST"
+	#sed -i '/https:\/\/amsitlab.github.io\//d' "$SOURCES_LIST"
+	rm -f $SOURCES_LIST
 }
 
 main $@
