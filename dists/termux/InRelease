@@ -6,24 +6,24 @@ Version: 1
 Architectures: all aarch64 arm i686 x86_64
 Description: Unofficiall termux repository
 Suite: termux
-Date: Mon, 18 Feb 2019 04:46:13 +0000
+Date: Mon, 18 Feb 2019 05:18:13 +0000
 SHA256:
- 1c4d8fdf0f182d1478c54fcd05a7d89c8ac0b3bef4436353a8eda381f80d8f06 2249 amsitlab/binary-all/Packages
- 88aa7dea4e025d4e924a08b2e76a90ad7d62078cc772c8c7a70e38eb1ce9a5a4 1128 amsitlab/binary-all/Packages.xz
+ 3847d79ae7a55ff0e6730de4f79737426d263946b9a7fefc181589732ef5277b 2248 amsitlab/binary-all/Packages
+ c6f3c57e23ef97a29ad87947763703945b73d558c88ab0cf1347625526ca3832 1128 amsitlab/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxqOJYTHGRlemF2dWUz
-QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L+eNEAC5cweVcJlGKm4wg5dWylIVKb85Xhc9
-PL3KkZD1qhvidFjtusTjm+Q5F/gp+146VdzrSpqRwnDYtU5HRk+mlVeceUTv1nA0
-DVRRNZIYZdVSe1FLragrl/VjZkSTTF/0yvviVgrWG1t/GUrpdf7Pt2EnA1hvueMb
-7y5rQapj9qPPTJw3eOejugdSztzLspB3a8KotNzGcHBpT3dMHFfq5SB+0Y5lHe2+
-9pkqRQS86BMSoa6L0e+n9mk0tblzmzEX8IeSHJIIwc1Z/RtYDrcuU1KY8IRjXtjw
-Z5ml8LXM+/5bnQT5vompJS0IVq2dVgHC9D9kw7clCTYWzMNJSOPLtZCthx77YWkI
-qwbQz+xWYMwbFbSJ1kgE8Ec4HjdC2b61snhTjNGOo9OCk9R8xA8xksbchpd6SEYX
-CQ6Te2WmI6cwJzxFZhZM8fmmnplhMaBymVykIfVXUCQcwzCWVtRPrCb0gzM0oM6T
-JRKB1Q6aUztLrU+KuJZwl0g6CML61O018VDcLrT2qxNilzblea5SCcL4TtzH2cD3
-gKcJ/ohTW/aJkhcYBHT4RlWXUVFtpz9chvOYXa0vuf4i749T82yf8GVssm1VR30d
-wPs57CCtfnmGGzm0EPPtHEUUEFttO4p6NMMD3kSLNfGD6rY/Knkfnm4mixYNTlee
-hPCgKXupHLDgVA==
-=rjqF
+iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxqQBYTHGRlemF2dWUz
+QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L51IEACllybIpi5vW7W4q3v84R/Eo5pzG0cj
+BYz/5lF65gnFGk6BYGxprdQG8LH62+ga5bU5ONidQpd0rFAe3q89fzQi9yf+4dfO
+dtMfkTYncvnOY+eQzFtxZ9MVaxJns8nD7Nu/n+pDnEgCg97RaTCcQLmXnrSdiKJ3
+MEorU1HuZIDhFNO6KaaDu2C+Jp54PyWsnVdIJrB/WvOfq+FAFvLlo+oBf1Ct+DNw
+i1Et5coPogB2ZGQVCwKRgwNbUf6xR54kNPAHrDTjMr0NiT79uPjl3ECdhojD4wE1
+PyFy8Fvy0jvAYkUu9nR+plLtz+laBI8eB3yMapa0btgOUkVOG4O56AzgmyQ+x0QP
+w88gub9qkMwBa++FNH37K0Ul1XfGuUdRuEL1M/menm6mK/ivAQhoYCBySAoef5+P
+nkBhx3iUSwnCIQjkEqyF59jsQiKs81/iRVskNVKROtilf2tPUYyjxfZUxO3HnvXk
+MIkqbOMVATcURWHYmrEIpofAZosMvHpgcPsR/LaS4rONqz6BPXrzKVqDeudPR3A8
+ho0QiSIEeXbjf6bpbIn3TwqR9syw3akkort4OeiQ8ggiDB1vHdQ5p6wmNMvFSctE
+NM+S5FlK639biOF/nZUXc3itMSFLh+xYyfIVmDUSojnpZx0E5mFCDUjIogZsSaaM
+xCWLF1v2JY9GlA==
+=8f8B
 -----END PGP SIGNATURE-----

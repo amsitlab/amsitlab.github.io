@@ -55,8 +55,7 @@ Maintainer: Amsit (@amsitlab) <dezavue3@gmail.com>
 Description: Change Termux Style.
 Depends: gawk, sed, bash, curl
 Homepage: https://amsitlab.github.io/
-
 Filename: dists/termux/amsitlab/binary-all/style_1.0_all.deb
 Size: 2084
-SHA256: 13817815d330f97270c8c2bc075ab12ad7a4eba4c9f2a7679baa49e367852a0c
+SHA256: b6ef4106e07ea687520180e65abfe1119d30177e43a707f319c58c061912e385
 
