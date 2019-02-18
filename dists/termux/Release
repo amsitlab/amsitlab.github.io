@@ -3,7 +3,7 @@ Version: 1
 Architectures: all aarch64 arm i686 x86_64
 Description: Unofficiall termux repository
 Suite: termux
-Date: Mon, 18 Feb 2019 03:45:29 +0000
+Date: Mon, 18 Feb 2019 04:46:13 +0000
 SHA256:
- fc284056fccee5c9917623c475dc733a8fc22c8ffb6fb060c899b42e4a5aa246 2250 amsitlab/binary-all/Packages
- 0c89fa257e25cff0e92011ba590977517d279d10570e1511d53141f7bca786ef 1124 amsitlab/binary-all/Packages.xz
+ 1c4d8fdf0f182d1478c54fcd05a7d89c8ac0b3bef4436353a8eda381f80d8f06 2249 amsitlab/binary-all/Packages
+ 88aa7dea4e025d4e924a08b2e76a90ad7d62078cc772c8c7a70e38eb1ce9a5a4 1128 amsitlab/binary-all/Packages.xz

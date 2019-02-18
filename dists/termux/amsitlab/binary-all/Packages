@@ -26,8 +26,8 @@ Description: The collection of Jdk tools has build to dex classes to run on dalv
 Homepage: https://amsitlab.github.io/
 Conflicts: javac
 Filename: dists/termux/amsitlab/binary-all/jdktools_1.0_all.deb
-Size: 7024360
-SHA256: 2c116c372a3f1c3821d5e0ec03ab1245e4487662365d11e66ce0f36e38738c86
+Size: 7020132
+SHA256: 2eaf119ea84d85552a9a585466b057a0bba99d4334799a1244c686c493f2c61a
 
 Package: proguard
 Architecture: all
