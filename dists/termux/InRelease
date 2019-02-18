@@ -6,24 +6,24 @@ Version: 1
 Architectures: all aarch64 arm i686 x86_64
 Description: Unofficiall termux repository
 Suite: termux
-Date: Sat, 16 Feb 2019 17:56:05 +0000
+Date: Mon, 18 Feb 2019 03:45:29 +0000
 SHA256:
  fc284056fccee5c9917623c475dc733a8fc22c8ffb6fb060c899b42e4a5aa246 2250 amsitlab/binary-all/Packages
  0c89fa257e25cff0e92011ba590977517d279d10570e1511d53141f7bca786ef 1124 amsitlab/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxoTrYTHGRlemF2dWUz
-QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L950EACcFzyxrtKuD4I9z4CV5/KRYEtEx48v
-oHT6tnv/1D3s8poazk9RTbhLwsGnR3nVSFR4nmdEu0bDSP87Ph7nZ8Dx2wDadPim
-VXMazHzhqygfVjBaG7qxKoM0GtB58iGY2MqSR6aGfAM4HDCQm4j2pBCBM/hW+ucp
-i4u8HvAVwyPhrZBopWt8y3MABPRanlAuxONT6A+5vyciUWbAbST0AbDyT80sVugf
-WOBhI6tcUdMWqolsfWpDJkgtnBSjfun+Zqo2jb64jiSZSMxoPbvzGKYN8ddmen7L
-ulntalKe22E+YlV0bXuS+Ak+dNu6NfzsbkZ/DtqUpc+/isgqbDHCjalbRRgqv82H
-BqgpqG4BO7mONuswI0XsfCUUDbKVqlW1cE1l/nDUYCSCpvTYbboYbGF1aCeO+jwe
-ZSq/oq0dd0JRzuFQAWD6o8KNgsmwqFO80elWAZqiLu8EyaG/5cCLJRyknqwAUiSQ
-LIesQdgd1/YpmAFauSjq3M84Eo98rvqN3qt3/O/eNeCL6z6D004RlFsPEnE1mlMu
-YI6WJTGHjplPP//b7tQNRLes8/hYWo7/C6xnFr95Wm+tk0nwGB3Wp6Cr7FAP2mpb
-ISbFphHROXHlNiCouQhCCsfW4K5QPmmi8z/iqmJc8HqjNePTK6dzcRQZzg1hFk0u
-1oaFUWikDTPyzg==
-=ztrN
+iQJHBAEBCgAxFiEEV3g5Hsy63H4pcI/46zo7KdB6vS8FAlxqKloTHGRlemF2dWUz
+QGdtYWlsLmNvbQAKCRDrOjsp0Hq9L5KsD/93dAAXA4qqduQlL4a0SLbB64TdDeXj
+ylOFR6nqSyFbXXPG7uO/jEJcvOEsrhTnYAdGAUg6v5HBq3lqOzjeG+EvXNtXClfy
+9fPnak0nigaHZImga671h81UR3GEllqq0OAIhOeXDZcRja94chmfRSIAq7aPknq0
+1XwnE/jbvOnOPcnBndtIx4wAFF4WRSrt4QAAg3zS6rt+nv7+DCQanuKrYIU1DcnT
+ueo6B/3NcO8VXM0VuFyD3ptAYG4H08BrVGRBGUN3sC4TssQ7o3SyobWsLJP7V0QI
+EFUYLCMq+Iy+SQRMubQPUBcryyStpMMa5cUxuegl/Q5wpFFiAEiTRLloocaMqkuA
+hu3ivcZZVL17zMrSmT6Vncsr51ALS2VMYNRhFSX9FEvR3VqZY4X91RbZSLynrw2E
+3yQbzg5jFksieZoX6aNq4RHDeW3QIzCcBaiY5PRmByipZmqqnlJ2jPrZncf+7JPQ
+DfFfD11zKPmO3Eh+6VcfCVQkFrK+CyxbGnwuCqG6KmC+yrRaokrMftkYHhIC5dZE
+upw1hpuAkHKGadTczBPLXB0xgs35HyhtA5kGDN+vQVl7boS1Y7Y3meOXS/VCgE1a
+uL3UnYgpWdZStjx3FjKwTamIX28usfxN8P0lMZ/zlZ+sa1CTneklXvku1V1qugZQ
+o/pI6Uc+ihS0Jw==
+=PKqd
 -----END PGP SIGNATURE-----
